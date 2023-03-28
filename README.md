@@ -1,1 +1,1 @@
-# AI-Fitness-Counting-System
+# Software Project Management Course Design
